@@ -1,0 +1,6 @@
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\WhileIteration\obj\Debug\WhileIteration.pdb
