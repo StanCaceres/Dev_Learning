@@ -1,0 +1,6 @@
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\bin\Debug\UnderstandArrays.exe.config
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\bin\Debug\UnderstandArrays.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\bin\Debug\UnderstandArrays.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\obj\Debug\UnderstandArrays.csprojResolveAssemblyReference.cache
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\obj\Debug\UnderstandArrays.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandArrays\obj\Debug\UnderstandArrays.pdb

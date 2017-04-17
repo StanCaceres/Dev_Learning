@@ -4,3 +4,9 @@ C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\b
 C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
 C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
 C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\cs-code\Lesson_10\Before\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
