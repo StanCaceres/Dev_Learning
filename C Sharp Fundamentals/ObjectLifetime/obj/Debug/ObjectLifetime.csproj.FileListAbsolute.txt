@@ -1,0 +1,6 @@
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\obj\Debug\ObjectLifetime.csprojResolveAssemblyReference.cache
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\ObjectLifetime\obj\Debug\ObjectLifetime.pdb
