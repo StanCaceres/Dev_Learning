@@ -1,0 +1,6 @@
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\StanCaceres\Documents\Github\Dev_Learning\C Sharp Fundamentals\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
